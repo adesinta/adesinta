@@ -23,6 +23,5 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact" alt="Top Langs"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact" alt="Top Langs"/>
+
