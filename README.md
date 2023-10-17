@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi!👋 I'm Ade Sinta</h1>
-  <p>A passionate developer currently exploring the world of technology.</p>
+  <p>A passionate informatics student currently exploring the world of technology.</p>
 </div>
 
 ## Connect with Me
