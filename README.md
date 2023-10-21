@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Hi!👋 I'm Ade Sinta</h1>
   <p>A passionate informatics student currently exploring the world of technology.</p>
+![Views](https://komarev.com/ghpvc/?username=adesinta&color=blue)
 </div>
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesinta/)
@@ -24,4 +26,6 @@
 
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact" alt="Top Langs"/>
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&count_private=true&hide=issues&theme=radical)
 
