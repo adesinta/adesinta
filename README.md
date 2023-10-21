@@ -25,7 +25,8 @@
 ![React JS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact" alt="Top Langs"/>
-
+## GitHub Statistics
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&count_private=true&hide=issues&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=radical)
