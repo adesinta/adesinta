@@ -6,9 +6,6 @@
 </div>
 
 ## Lets Connect with Me : 
-<a href="https://www.linkedin.com/in/adesinta/">
-  <img src="">
-</a>
 <p align="left">
 <a href="https://www.linkedin.com/in/adesinta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adesinta" height="30" width="40" /></a>
 <a href="https://www.instagram.com/adesinta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adesinta_" height="30" width="40" /></a>
