@@ -5,7 +5,12 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=adesinta&color=blue)
 </div>
 
-## Lets Connect with Me : 
+## About Me
+- 🌱 I’m currently learning **react, tailwind css**
+
+- 📫 How to reach me **adesintaaaa@gmail.com**
+
+## Lets Connect with Me 
 <p align="left">
 <a href="https://www.linkedin.com/in/adesinta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adesinta" height="30" width="40" /></a>
 <a href="https://www.instagram.com/adesinta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adesinta_" height="30" width="40" /></a>
@@ -28,11 +33,23 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+     </a>
+      <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
+        </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a> 
 </p>
 
 ## GitHub Statistics
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&count_private=true&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&count_private=true&theme=dark" alt="GitHub Statistics" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=dark" alt="Top Languages" height="180">
+
+## Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adesinta&theme=dark" alt="adesinta" />
