@@ -6,9 +6,11 @@
 </div>
 
 ## About Me
+- 🌐 Aspiring to make a positive impact through technology.
 - 🌱 I’m currently learning **react, tailwind css**
-
 - 📫 How to reach me **adesintaaaa@gmail.com**
+- 💬 Ask me about anything, I'm happy to help!
+- 🚀 Has a passion for continuous learning, growing, and adapting to new challenges in the era of technology.
 
 ## Lets Connect with Me 
 <p align="left">
