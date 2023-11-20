@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi!👋 I'm Ade Sinta</h1>
+  <h1><img src='https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-thumbs-up-gif.gif' 
+  height="30px">Hi! I'm Ade Sinta</h1>
   <p>A passionate informatics student currently exploring the world of technology.</p>
   
   ![Views](https://komarev.com/ghpvc/?username=adesinta&color=blue)
@@ -7,9 +8,11 @@
 
 
 ## Connect with Me
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesinta/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adesinta_/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adesintaa)
+</p>
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -27,6 +30,4 @@
 
 ## GitHub Statistics
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&count_private=true&hide=issues&theme=radical)
-
-## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=radical)
