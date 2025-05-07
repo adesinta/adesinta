@@ -61,6 +61,3 @@
 ## GitHub Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&count_private=true&theme=dark" alt="GitHub Statistics" height="180">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=dark" alt="Top Languages" height="180">
-
-## Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adesinta&theme=dark)
