@@ -1,12 +1,13 @@
 <div align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=40A2D8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Ade+Sinta+%F0%9F%91%8D;Informatics+Student+%7C+Web+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
-  
+</div>
+
+<div align="center">
   <!-- Custom Profile View Counter with Emoji -->
   <a href="https://github.com/adesinta">
     <img src="https://komarev.com/ghpvc/?username=adesinta&color=40A2D8&style=for-the-badge&label=👁️+Profile+Views" alt="Profile Views" />
   </a>
-</div>
+  </div>
 
 ## 🌟 About Me
 
