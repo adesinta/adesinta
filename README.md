@@ -52,13 +52,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&theme=radical&hide_border=true&border_radius=18" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=radical&langs_count=10&hide=html&hide_border=true&border_radius=18" height="180"/>
-  <br/>
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesinta&theme=radical&hide_border=true&border_radius=18" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=radical&langs_count=10&hide=html&hide_border=true&border_radius=18" height="180"/>
 </div>
 
   <!-- Animated waving shape -->
+  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40A2D8,100:7F53AC&height=90&section=footer" alt="footer wave"/>
----
+  </div>
+
