@@ -8,16 +8,12 @@
   </a>
 </div>
 
----
-
 ## 🌟 About Me
 
 - Ade Sinta | Informatics student
 - Enthusiastic about tech, coding, and design
 - Creative, collaborative, and eager to learn new things
 - Open to networking and collaboration
-
----
 
 ## 🤝 Connect With Me
 
@@ -33,15 +29,11 @@
   </a>
 </p>
 
----
-
 ## ⚡ Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,nodejs,git,figma,postman,mariadb" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
