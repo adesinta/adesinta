@@ -6,13 +6,6 @@
   <a href="https://github.com/adesinta">
     <img src="https://komarev.com/ghpvc/?username=adesinta&color=40A2D8&style=for-the-badge&label=👁️+Profile+Views" alt="Profile Views" />
   </a>
-  
-  <br><br>
-  
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Programming Laptop GIF" />
-     <!-- Animated waving shape -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40A2D8,100:7F53AC&height=90&section=footer" alt="footer wave"/>
-
 </div>
 
 ---
