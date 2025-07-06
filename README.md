@@ -10,6 +10,8 @@
   <br><br>
   
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Programming Laptop GIF" />
+     <!-- Animated waving shape -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40A2D8,100:7F53AC&height=90&section=footer" alt="footer wave"/>
 
 </div>
 
@@ -17,15 +19,14 @@
 
 ## 🌟 About Me
 
-- 👋 Hi, I’m **Ade Sinta**
-- 🎓 Informatics student | Passionate about tech & design
-- 🌱 Currently learning: **React, Next.js, TypeScript, Tailwind CSS**
-- ✉️ Reach me at: [adesintaaaa@gmail.com](mailto:adesintaaaa@gmail.com)
-- 🤝 Open for collaboration and networking!
+- Ade Sinta | Informatics student
+- Enthusiastic about tech, coding, and design
+- Creative, collaborative, and eager to learn new things
+- Open to networking and collaboration
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adesinta/" target="_blank" title="LinkedIn">
@@ -41,7 +42,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,nodejs,git,figma,postman,mariadb" />
@@ -49,14 +50,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=tokyonight&langs_count=10&hide=html&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesinta&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adesinta&show_icons=true&theme=radical&hide_border=true&border_radius=18" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesinta&layout=compact&theme=radical&langs_count=10&hide=html&hide_border=true&border_radius=18" height="180"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesinta&theme=radical&hide_border=true&border_radius=18" height="180"/>
+</div>
 
+  <!-- Animated waving shape -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40A2D8,100:7F53AC&height=90&section=footer" alt="footer wave"/>
 ---
