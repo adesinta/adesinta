@@ -43,7 +43,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,nodejs,git,figma,postman,mariadb" />
 </p>
 
