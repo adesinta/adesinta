@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-- Ade Sinta | Informatics student | <a href="https://adesinta.vercel.app/" target="_blank">Personal Website</a>
+- Ade Sinta | Informatics student | <a href="https://www.adesinta.my.id/" target="_blank">Personal Website</a>
 - Enthusiastic about tech, coding, and design
 - Creative, collaborative, and eager to learn new things
 - Open to networking and collaboration
